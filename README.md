@@ -3,10 +3,10 @@ C2TSR as abbreviated for Concurrent Canada-based Traﬃc Signposts Recognition i
 
 
 
-#Folders and Files:
+Folders and Files:
 
-##A.C2TSR
-  ###a. Data
+A.C2TSR
+  a. Data
     1)Raw       ----- Contains recorded videos (I have not uploaded any videos due to space limit)
       	i)Frames  ----- Contains frames extracted from the recorded videos (For ex. I have uploaded only two frames)
       	ii)final  ----- Contains finalised frames and their corresponding annotation files 
