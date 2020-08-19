@@ -8,14 +8,14 @@ Folders and Files:
 A.C2TSR
   a. Data
     1)Raw       ----- Contains recorded videos (I have not uploaded any videos due to space limit)
-      i)Frames  ----- Contains frames extracted from the recorded videos (For ex. I have uploaded only two frames)
-      ii)final  ----- Contains finalised frames and their corresponding annotation files 
+      	i)Frames  ----- Contains frames extracted from the recorded videos (For ex. I have uploaded only two frames)
+      	ii)final  ----- Contains finalised frames and their corresponding annotation files 
     2)Test      ----- Contains Vidoes/images to test
-      i)Output  ----- Contains output of the model on test vidoes (I have uploaded output tested on unseen data)
+      	i)Output  ----- Contains output of the model on test vidoes (I have uploaded output tested on unseen data)
     3)Dataset
-      i)FinalC2TSR.csv  ----- Contains annotation details of all the frames combined a CSV format
-      ii)image dataset  ----- Includes link to google drive where obj.zip (image dataset) is stoded (could not upload here due to space limit)-
-                              https://drive.google.com/file/d/1UF0FfQ9zyp90ZeDizcc6nzPVx54H3qSQ/view?usp=sharing
+      	i)FinalC2TSR.csv  ----- Contains annotation details of all the frames combined a CSV format
+      	ii)image dataset  ----- Includes link to google drive where obj.zip (image dataset) is stoded (could not upload here due to space limit)-
+                              	https://drive.google.com/file/d/1UF0FfQ9zyp90ZeDizcc6nzPVx54H3qSQ/view?usp=sharing
       
       
 
