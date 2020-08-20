@@ -47,6 +47,8 @@ A.C2TSR
 B.Project delivery documents
   a. Proposal_200434194_SubySingh.pdf  ----- Proposal document
   b. C2TSR project proposal.pdf        ----- Proposal presentation
+  c. C2TSR project Final presentation.pdf ---- Final outcome presentation
+  d. C2TSR_Final_Report.pdf               ---- Final project report
   
   Link to google drive using which I trained C2TSR model, it includes all the files/scripts to train the model
   https://drive.google.com/drive/folders/1S7OStCARCD9yDvwgYEUNHp9H9qh55mOq?usp=sharing
