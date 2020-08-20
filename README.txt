@@ -50,3 +50,9 @@ B.Project delivery documents
   
   Link to google drive using which I trained C2TSR model, it includes all the files/scripts to train the model
   https://drive.google.com/drive/folders/1S7OStCARCD9yDvwgYEUNHp9H9qh55mOq?usp=sharing
+  
+  Final presentation recording on Youtube at https://youtu.be/GcAlXeLciZc
+
+  C2TSR output video on youtube at  https://youtu.be/l7xEClga5yI
+
+  C2TSR deployment video on youtube at https://youtu.be/jlay6j7ZRp4
