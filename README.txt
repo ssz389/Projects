@@ -39,6 +39,11 @@ A.C2TSR
         iv) obj.names             ----- includes classes names and used while training the C2TSR model
         v)yolov3_custom.cfg       ----- Yolo v3 configuration file
         
+  e. Self-contained Setup guide
+        i)Setup guide for C2TSR.pdf ----- setup guide
+        ii)requirement.txt          ----- installing dependent modules 
+        iii)versions.txt            ----- list the different modules and their version
+        
 B.Project delivery documents
   a. Proposal_200434194_SubySingh.pdf  ----- Proposal document
   b. C2TSR project proposal.pdf        ----- Proposal presentation
