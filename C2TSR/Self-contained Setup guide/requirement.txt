@@ -1,0 +1,15 @@
+pip install jupyterlab
+pip install re
+pip install glob
+pip install lxml
+pip install datetime
+pip install mimetype
+pip install pandas
+pip install qt5
+pip install tkinter
+pip install numpy
+pip install opencv-python
+pip install filetype
+pip install random
+pip install maplotlib
+pip install imutils
